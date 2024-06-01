@@ -13,3 +13,6 @@
 ## Knowledge
   - **Propositional Logic**
     - [Inference](./knowledge/propositional-logic/inference/)
+## Uncertainty
+  - **Markov Chain**
+    - [PageRank](./uncertainty/markov-chain/pagerank/)
