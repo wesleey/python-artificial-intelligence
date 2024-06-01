@@ -10,3 +10,6 @@
     - [Minimax](./search/adversarial/minimax/)
     - [Alpha-Beta Pruning](./search/adversarial/alpha-beta-pruning/)
     - [Depth-Limited Minimax](./search/adversarial/depth-limited-minimax/)
+## Knowledge
+  - **Propositional Logic**
+    - [Inference](./knowledge/propositional-logic/inference/)
