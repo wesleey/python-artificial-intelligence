@@ -3,3 +3,5 @@
   - **Uninformed**
     - [Depth-First Search (DFS)](./search/uninformed/depth-first/)
     - [Breadth-First Search (DFS)](./search/uninformed/breadth-first/)
+  - **Informed**
+    - [Greedy Best-First Search (GBFS)](./search/informed/greedy-best-first/)
