@@ -6,3 +6,5 @@
   - **Informed**
     - [Greedy Best-First Search (GBFS)](./search/informed/greedy-best-first/)
     - [A*](./search/informed/a-star/)
+  - **Adversarial**
+    - [Minimax](./search/adversarial/minimax/)
