@@ -8,3 +8,4 @@
     - [A*](./search/informed/a-star/)
   - **Adversarial**
     - [Minimax](./search/adversarial/minimax/)
+    - [Alpha-Beta Pruning](./search/adversarial/alpha-beta-pruning/)
