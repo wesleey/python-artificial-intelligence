@@ -16,3 +16,5 @@
 ## Uncertainty
   - **Markov Chain**
     - [PageRank](./uncertainty/markov-chain/pagerank/)
+  - **Bayesian Network**
+    - [Heredity](./uncertainty/bayesian-network/heredity/)
