@@ -18,3 +18,6 @@
     - [PageRank](./uncertainty/markov-chain/pagerank/)
   - **Bayesian Network**
     - [Heredity](./uncertainty/bayesian-network/heredity/)
+## Optimization
+  - **Constraint Satisfaction**
+    - [Crossword](./optimization/constraint-satisfaction/crossword/)
