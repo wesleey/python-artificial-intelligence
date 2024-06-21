@@ -24,3 +24,4 @@
 ## Learning
   - **Machine Learning**
     - [K-Nearest Neighbors (KNN)](./learning/machine-learning/k-nearest-neighbors/)
+    - [Q-learning](./learning/machine-learning/q-learning/)
