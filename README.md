@@ -21,3 +21,6 @@
 ## Optimization
   - **Constraint Satisfaction**
     - [Crossword](./optimization/constraint-satisfaction/crossword/)
+## Learning
+  - **Machine Learning**
+    - [K-Nearest Neighbors (KNN)](./learning/machine-learning/k-nearest-neighbors/)
